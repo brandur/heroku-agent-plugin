@@ -4,4 +4,4 @@ Configures the [Heroku CLI](https://github.com/heroku/heroku) to function with [
 
 See [installation instructions at heroku-agent](https://github.com/brandur/heroku-agent).
 
-WARNING: This plugin requires a yet-as-unreleased version of Excon to function.
+**WARNING:** This plugin requires a yet-as-unreleased version of Excon to function.
